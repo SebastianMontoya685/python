@@ -1,0 +1,3 @@
+Lecture 2: Control Flow
+This file contains the notes for the second lecture.
+Topics: if statements, loops, and functions.
